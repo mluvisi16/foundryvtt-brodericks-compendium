@@ -100,12 +100,9 @@
     }
   ],
   "relationships": {},
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
-  "bugs": "This is auto replaced",
-  "changelog": "This is auto replaced",
-  "readme":"This is auto replaced",
+  "url": "https://github.com/mluvisi16/foundryvtt-brodericks-compendium",
+  "manifest": "https://github.com/mluvisi16/foundryvtt-brodericks-compendium/releases/latest/download/module.json",
+  "download": "https://github.com/mluvisi16/foundryvtt-brodericks-compendium/releases/download/1.0.0/module.zip"
   "flags": {
     "allowBugReporter": true
   }
