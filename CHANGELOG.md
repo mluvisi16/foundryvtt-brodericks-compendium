@@ -1,3 +1,7 @@
+2.0.1
+-------
+Testing image functionality
+
 2.0.0
 -------
 Updated to LeveldDB as per Foundry v11
