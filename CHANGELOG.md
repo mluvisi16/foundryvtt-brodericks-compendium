@@ -1,3 +1,7 @@
+2.0.31
+-------
+Fixing linking issues
+
 2.0.1
 -------
 Testing image functionality
