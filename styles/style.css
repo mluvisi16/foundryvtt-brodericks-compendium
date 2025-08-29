@@ -4,9 +4,9 @@
 .compendium-sidebar .directory-item.compendium[data-entry-id="brodericks-compendium.books"] img {
     content: url("../images/banner-books.webp");
 }
-.compendium-sidebar .directory-item.compendium[data-entry-id="brodericks-compendium.plants"] img {
+.compendium-sidebar .directory-item.compendium[data-entry-id="brodericks-compendium-plants-fungi.plants"] img {
     content: url("../images/banner-plants.webp");
 }
-.compendium-sidebar .directory-item.compendium[data-entry-id="brodericks-compendium.planttables"] img {
+.compendium-sidebar .directory-item.compendium[data-entry-id="brodericks-compendium-plants-fungi.planttables"] img {
     content: url("../images/banner-planttables.webp");
 }
