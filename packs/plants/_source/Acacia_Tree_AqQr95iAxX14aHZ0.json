@@ -2,7 +2,7 @@
   "_id": "AqQr95iAxX14aHZ0",
   "name": "Acacia Tree",
   "type": "consumable",
-  "img": "modules/brodericks-compendium/images/acacia-tree.webp",
+  "img": "modules/brodericks-compendium-plants-fungi/images/acacia-tree.webp",
   "effects": [],
   "folder": null,
   "sort": 10800000,

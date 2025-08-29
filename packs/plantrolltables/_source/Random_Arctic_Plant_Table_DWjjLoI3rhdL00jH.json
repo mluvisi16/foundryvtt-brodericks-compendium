@@ -186,7 +186,7 @@
       ],
       "drawn": false,
       "_id": "sGQEsu0fbLqZSk5q",
-      "img": "modules/brodericks-compendium/images/bee-balm.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/bee-balm.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -220,7 +220,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/bija-tree.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/bija-tree.webp",
       "weight": 7,
       "range": [
         166,
@@ -781,7 +781,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/halcyon-crocus.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/halcyon-crocus.webp",
       "weight": 1,
       "range": [
         607,
@@ -814,7 +814,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/hares-ear.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/hares-ear.webp",
       "weight": 46,
       "range": [
         608,
@@ -1077,7 +1077,7 @@
       ],
       "drawn": false,
       "_id": "Jv13Skc7XE0w4iuP",
-      "img": "modules/brodericks-compendium/images/mistletoe.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/mistletoe.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -1111,7 +1111,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/obaddis-leaf.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/obaddis-leaf.webp",
       "weight": 7,
       "range": [
         796,
@@ -1243,7 +1243,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/scented-mayweed.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/scented-mayweed.webp",
       "weight": 50,
       "range": [
         824,
@@ -1441,7 +1441,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/thistledown.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/thistledown.webp",
       "weight": 3,
       "range": [
         995,

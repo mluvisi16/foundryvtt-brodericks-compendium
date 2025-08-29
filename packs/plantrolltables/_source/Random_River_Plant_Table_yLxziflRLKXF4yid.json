@@ -187,7 +187,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/calamus.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/calamus.webp",
       "weight": 64,
       "range": [
         298,
@@ -220,7 +220,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/cats-tail.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/cats-tail.webp",
       "weight": 63,
       "range": [
         362,
@@ -352,7 +352,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/dragonwort.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/dragonwort.webp",
       "weight": 64,
       "range": [
         561,
@@ -616,7 +616,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/horehound.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/horehound.webp",
       "weight": 63,
       "range": [
         921,
@@ -748,7 +748,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/lungwort.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/lungwort.webp",
       "weight": 63,
       "range": [
         1096,
@@ -781,7 +781,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/marshmallow.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/marshmallow.webp",
       "weight": 63,
       "range": [
         1159,
@@ -880,7 +880,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/nahre-lotus.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/nahre-lotus.webp",
       "weight": 10,
       "range": [
         1238,
@@ -912,7 +912,7 @@
       ],
       "drawn": false,
       "_id": "v6OrGxK1sRPSj5IJ",
-      "img": "modules/brodericks-compendium/images/nettle.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/nettle.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -1078,7 +1078,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/pennyroyal.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/pennyroyal.webp",
       "weight": 8,
       "range": [
         1401,
@@ -1243,7 +1243,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/watercress.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/watercress.webp",
       "weight": 63,
       "range": [
         1438,

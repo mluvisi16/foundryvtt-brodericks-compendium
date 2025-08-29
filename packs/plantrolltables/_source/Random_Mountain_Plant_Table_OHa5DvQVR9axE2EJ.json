@@ -55,7 +55,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/angelica.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/angelica.webp",
       "weight": 179,
       "range": [
         80,
@@ -154,7 +154,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/arnica.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/arnica.webp",
       "weight": 179,
       "range": [
         384,
@@ -220,7 +220,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/base-mullein.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/base-mullein.webp",
       "weight": 179,
       "range": [
         609,
@@ -253,7 +253,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/basil.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/basil.webp",
       "weight": 179,
       "range": [
         788,
@@ -352,7 +352,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/blackberry.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/blackberry.webp",
       "weight": 179,
       "range": [
         1027,
@@ -682,7 +682,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/dathlil.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/dathlil.webp",
       "weight": 179,
       "range": [
         1874,
@@ -748,7 +748,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/devils-crown.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/devils-crown.webp",
       "weight": 21,
       "range": [
         2067,
@@ -847,7 +847,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/dwarf-mallow.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/dwarf-mallow.webp",
       "weight": 46,
       "range": [
         2213,
@@ -1012,7 +1012,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/ephedra.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/ephedra.webp",
       "weight": 21,
       "range": [
         2419,
@@ -1507,7 +1507,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/lesser-centaury.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/lesser-centaury.webp",
       "weight": 79,
       "range": [
         3000,
@@ -1539,7 +1539,7 @@
       ],
       "drawn": false,
       "_id": "SpDCop7iJxdoiSgi",
-      "img": "modules/brodericks-compendium/images/midnight-coneflower.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/midnight-coneflower.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -1705,7 +1705,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/mountain-garlic.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/mountain-garlic.webp",
       "weight": 79,
       "range": [
         3399,
@@ -2002,7 +2002,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/serapias-turbith.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/serapias-turbith.webp",
       "weight": 1,
       "range": [
         3715,
@@ -2068,7 +2068,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/sheperds-purse.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/sheperds-purse.webp",
       "weight": 46,
       "range": [
         3737,
@@ -2134,7 +2134,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/silverthorn.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/silverthorn.webp",
       "weight": 14,
       "range": [
         3804,
@@ -2266,7 +2266,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/spring-adonis.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/spring-adonis.webp",
       "weight": 79,
       "range": [
         3854,
@@ -2299,7 +2299,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/strawberry.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/strawberry.webp",
       "weight": 179,
       "range": [
         3933,

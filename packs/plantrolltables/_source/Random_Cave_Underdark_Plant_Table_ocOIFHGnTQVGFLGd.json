@@ -22,7 +22,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/abyssal-blackgrass.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/abyssal-blackgrass.webp",
       "weight": 13,
       "range": [
         1,
@@ -55,7 +55,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/amanita.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/amanita.webp",
       "weight": 13,
       "range": [
         14,
@@ -187,7 +187,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/bluecap.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/bluecap.webp",
       "weight": 333,
       "range": [
         92,
@@ -252,7 +252,7 @@
       ],
       "drawn": false,
       "_id": "gx4nDdZ1I3QsA0fO",
-      "img": "modules/brodericks-compendium/images/blackcorn.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/blackcorn.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -1342,7 +1342,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/lumina-cap.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/lumina-cap.webp",
       "weight": 6,
       "range": [
         1341,
@@ -1870,7 +1870,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/sunflower-of-pelor.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/sunflower-of-pelor.webp",
       "weight": 46,
       "range": [
         1491,

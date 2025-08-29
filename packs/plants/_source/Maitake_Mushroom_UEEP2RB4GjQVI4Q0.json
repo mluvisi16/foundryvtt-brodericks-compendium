@@ -2,7 +2,7 @@
   "_id": "UEEP2RB4GjQVI4Q0",
   "name": "Maitake Mushroom",
   "type": "consumable",
-  "img": "modules/brodericks-compendium/images/maitake-mushroom.webp",
+  "img": "modules/brodericks-compendium-plants-fungi/images/maitake-mushroom.webp",
   "effects": [],
   "folder": null,
   "sort": 32600000,

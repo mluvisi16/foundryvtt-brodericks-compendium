@@ -121,7 +121,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/all-heale.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/all-heale.webp",
       "weight": 48,
       "range": [
         58,
@@ -319,7 +319,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/asarabacca.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/asarabacca.webp",
       "weight": 15,
       "range": [
         237,
@@ -352,7 +352,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/ash.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/ash.webp",
       "weight": 27,
       "range": [
         252,
@@ -450,7 +450,7 @@
       ],
       "drawn": false,
       "_id": "orWMq50RPIHGD4Nc",
-      "img": "modules/brodericks-compendium/images/aspen-tree.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/aspen-tree.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -516,7 +516,7 @@
       ],
       "drawn": false,
       "_id": "9DP8C0L0Fbgg1vSX",
-      "img": "modules/brodericks-compendium/images/astragalus-root.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/astragalus-root.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -549,7 +549,7 @@
       ],
       "drawn": false,
       "_id": "huRYPQnKYTarIStj",
-      "img": "modules/brodericks-compendium/images/autumn-skullcap.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/autumn-skullcap.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -616,7 +616,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/barberry.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/barberry.webp",
       "weight": 48,
       "range": [
         404,
@@ -682,7 +682,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/basil.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/basil.webp",
       "weight": 48,
       "range": [
         467,
@@ -715,7 +715,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/bija-tree.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/bija-tree.webp",
       "weight": 7,
       "range": [
         515,
@@ -748,7 +748,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/bilberry.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/bilberry.webp",
       "weight": 5,
       "range": [
         522,
@@ -814,7 +814,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/blackberry.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/blackberry.webp",
       "weight": 48,
       "range": [
         554,
@@ -1177,7 +1177,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/chervil.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/chervil.webp",
       "weight": 27,
       "range": [
         848,
@@ -1210,7 +1210,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/cinquefort.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/cinquefort.webp",
       "weight": 15,
       "range": [
         875,
@@ -1342,7 +1342,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/cow-wheat.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/cow-wheat.webp",
       "weight": 48,
       "range": [
         939,
@@ -1374,7 +1374,7 @@
       ],
       "drawn": false,
       "_id": "KmuNCGADh3jOXrCJ",
-      "img": "modules/brodericks-compendium/images/crab-apple.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/crab-apple.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -1440,7 +1440,7 @@
       ],
       "drawn": false,
       "_id": "ZO8p84NUc47gQgIt",
-      "img": "modules/brodericks-compendium/images/cubeb.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/cubeb.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -1738,7 +1738,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/dittany.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/dittany.webp",
       "weight": 48,
       "range": [
         1231,
@@ -1771,7 +1771,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/dog-rose.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/dog-rose.webp",
       "weight": 48,
       "range": [
         1279,
@@ -1870,7 +1870,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/dwarf-hops.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/dwarf-hops.webp",
       "weight": 48,
       "range": [
         1369,
@@ -1968,7 +1968,7 @@
       ],
       "drawn": false,
       "_id": "Wtq31trQLUdiWPw9",
-      "img": "modules/brodericks-compendium/images/elder-tree.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/elder-tree.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -2001,7 +2001,7 @@
       ],
       "drawn": false,
       "_id": "zc9DNQNkGTN69acf",
-      "img": "modules/brodericks-compendium/images/elm.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/elm.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -2068,7 +2068,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/elvish-galingale.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/elvish-galingale.webp",
       "weight": 48,
       "range": [
         1573,
@@ -2265,7 +2265,7 @@
       ],
       "drawn": false,
       "_id": "6aumMCO61cZbyErq",
-      "img": "modules/brodericks-compendium/images/foxglove.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/foxglove.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -2298,7 +2298,7 @@
       ],
       "drawn": false,
       "_id": "Izceh1jtIK3qTign",
-      "img": "modules/brodericks-compendium/images/fuiyaru.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/fuiyaru.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -2398,7 +2398,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/gardenflax.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/gardenflax.webp",
       "weight": 5,
       "range": [
         1777,
@@ -2431,7 +2431,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/goat-rue.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/goat-rue.webp",
       "weight": 48,
       "range": [
         1782,
@@ -2497,7 +2497,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/golden-crown.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/golden-crown.webp",
       "weight": 48,
       "range": [
         1878,
@@ -2530,7 +2530,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/golden-lungwort.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/golden-lungwort.webp",
       "weight": 15,
       "range": [
         1926,
@@ -2827,7 +2827,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/hawkweed.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/hawkweed.webp",
       "weight": 15,
       "range": [
         2040,
@@ -2860,7 +2860,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/healing-apple-tree.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/healing-apple-tree.webp",
       "weight": 27,
       "range": [
         2055,
@@ -2893,7 +2893,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/hidden-hibiscus.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/hidden-hibiscus.webp",
       "weight": 5,
       "range": [
         2082,
@@ -2959,7 +2959,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/hiljirat-pepper.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/hiljirat-pepper.webp",
       "weight": 15,
       "range": [
         2114,
@@ -3124,7 +3124,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/juniper.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/juniper.webp",
       "weight": 48,
       "range": [
         2173,
@@ -3255,7 +3255,7 @@
       ],
       "drawn": false,
       "_id": "1gG0coTeuVMZwI8A",
-      "img": "modules/brodericks-compendium/images/kings-pear.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/kings-pear.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -3454,7 +3454,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/leopards-bane.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/leopards-bane.webp",
       "weight": 48,
       "range": [
         2400,
@@ -3486,7 +3486,7 @@
       ],
       "drawn": false,
       "_id": "qmTFJIJeCgSfLFVt",
-      "img": "modules/brodericks-compendium/images/linden-tree.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/linden-tree.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -3586,7 +3586,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/locust-needle.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/locust-needle.webp",
       "weight": 48,
       "range": [
         2516,
@@ -3717,7 +3717,7 @@
       ],
       "drawn": false,
       "_id": "BgRv0Y1FiMzkLlHx",
-      "img": "modules/brodericks-compendium/images/maitake-mushroom.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/maitake-mushroom.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -3784,7 +3784,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/marigold.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/marigold.webp",
       "weight": 48,
       "range": [
         2644,
@@ -3882,7 +3882,7 @@
       ],
       "drawn": false,
       "_id": "t3shqA9vVwP7IlM2",
-      "img": "modules/brodericks-compendium/images/mistletoe.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/mistletoe.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -3916,7 +3916,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/myrthis.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/myrthis.webp",
       "weight": 27,
       "range": [
         2754,
@@ -4048,7 +4048,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/pennyroyal.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/pennyroyal.webp",
       "weight": 7,
       "range": [
         2861,
@@ -4311,7 +4311,7 @@
       ],
       "drawn": false,
       "_id": "doR3p7QaWWBT9brs",
-      "img": "modules/brodericks-compendium/images/rowan-tree.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/rowan-tree.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -4443,7 +4443,7 @@
       ],
       "drawn": false,
       "_id": "ME6ccmqY4914Lb1y",
-      "img": "modules/brodericks-compendium/images/sanicle.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/sanicle.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -4510,7 +4510,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/shadbush.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/shadbush.webp",
       "weight": 48,
       "range": [
         3128,
@@ -4674,7 +4674,7 @@
       ],
       "drawn": false,
       "_id": "qei8BSo37I6b6Iuu",
-      "img": "modules/brodericks-compendium/images/spelleater-ivy.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/spelleater-ivy.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -4708,7 +4708,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/spiderwort.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/spiderwort.webp",
       "weight": 27,
       "range": [
         3280,
@@ -4774,7 +4774,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/spring-adonis.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/spring-adonis.webp",
       "weight": 27,
       "range": [
         3334,
@@ -4807,7 +4807,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/strawberry.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/strawberry.webp",
       "weight": 48,
       "range": [
         3361,
@@ -5005,7 +5005,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/tephrosia.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/tephrosia.webp",
       "weight": 15,
       "range": [
         3507,
@@ -5038,7 +5038,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/thimbleweed.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/thimbleweed.webp",
       "weight": 48,
       "range": [
         3522,
@@ -5104,7 +5104,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/troll-poppy.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/troll-poppy.webp",
       "weight": 27,
       "range": [
         3585,
@@ -5368,7 +5368,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/weeping-tree.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/weeping-tree.webp",
       "weight": 48,
       "range": [
         3695,
@@ -5401,7 +5401,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/weirwood.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/weirwood.webp",
       "weight": 15,
       "range": [
         3743,
@@ -5434,7 +5434,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/white-byrony.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/white-byrony.webp",
       "weight": 27,
       "range": [
         3758,
@@ -5533,7 +5533,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/woodrose.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/woodrose.webp",
       "weight": 7,
       "range": [
         3838,
@@ -5566,7 +5566,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/wood-sorrel.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/wood-sorrel.webp",
       "weight": 27,
       "range": [
         3845,
@@ -5599,7 +5599,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/wormwood.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/wormwood.webp",
       "weight": 7,
       "range": [
         3872,
@@ -5763,7 +5763,7 @@
       ],
       "drawn": false,
       "_id": "Qjdu5OI8tm8gtCQw",
-      "img": "modules/brodericks-compendium/images/yew-tree.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/yew-tree.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -5797,7 +5797,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/young-lads-love.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/young-lads-love.webp",
       "weight": 48,
       "range": [
         3991,

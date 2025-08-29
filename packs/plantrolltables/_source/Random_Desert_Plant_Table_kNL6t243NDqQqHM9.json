@@ -88,7 +88,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/aloe.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/aloe.webp",
       "weight": 56,
       "range": [
         7,
@@ -517,7 +517,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/dathlil.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/dathlil.webp",
       "weight": 56,
       "range": [
         416,
@@ -682,7 +682,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/ephedra.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/ephedra.webp",
       "weight": 7,
       "range": [
         502,
@@ -1177,7 +1177,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/powdered-desert-milk.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/powdered-desert-milk.webp",
       "weight": 9,
       "range": [
         746,
@@ -1243,7 +1243,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/sandberry-bush.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/sandberry-bush.webp",
       "weight": 56,
       "range": [
         758,
