@@ -2,7 +2,7 @@
   "_id": "WeKUSrTGHvBREOBG",
   "name": "Dwarf Hops",
   "type": "consumable",
-  "img": "modules/brodericks-compendium/images/dwarf-hops.webp",
+  "img": "modules/brodericks-compendium-plants-fungi/images/dwarf-hops.webp",
   "effects": [],
   "folder": null,
   "sort": 35100000,

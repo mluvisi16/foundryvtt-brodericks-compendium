@@ -88,7 +88,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/blackcorn.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/blackcorn.webp",
       "weight": 50,
       "range": [
         10,
@@ -187,7 +187,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/bull-rush.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/bull-rush.webp",
       "weight": 7,
       "range": [
         76,
@@ -352,7 +352,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/creeping-mangrove.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/creeping-mangrove.webp",
       "weight": 63,
       "range": [
         111,
@@ -384,7 +384,7 @@
       ],
       "drawn": false,
       "_id": "0Ij8z96GEkWozcsZ",
-      "img": "modules/brodericks-compendium/images/cubeb.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/cubeb.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -681,7 +681,7 @@
       ],
       "drawn": false,
       "_id": "wI7htSmexsalJ7ig",
-      "img": "modules/brodericks-compendium/images/knitbone.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/knitbone.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -814,7 +814,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/marshmallow.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/marshmallow.webp",
       "weight": 63,
       "range": [
         506,
@@ -1473,7 +1473,7 @@
       ],
       "drawn": false,
       "_id": "w5USAnmWlBHbjXxd",
-      "img": "modules/brodericks-compendium/images/willow-herb.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/willow-herb.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {

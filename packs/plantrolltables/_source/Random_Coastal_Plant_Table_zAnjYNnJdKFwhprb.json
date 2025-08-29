@@ -22,7 +22,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/aloe.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/aloe.webp",
       "weight": 17,
       "range": [
         1,
@@ -88,7 +88,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/archangelica.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/archangelica.webp",
       "weight": 10,
       "range": [
         28,
@@ -154,7 +154,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/calamus.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/calamus.webp",
       "weight": 10,
       "range": [
         48,
@@ -187,7 +187,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/cats-tail.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/cats-tail.webp",
       "weight": 17,
       "range": [
         58,
@@ -252,7 +252,7 @@
       ],
       "drawn": false,
       "_id": "QzVHc1pn5YnfBRGp",
-      "img": "modules/brodericks-compendium/images/crisp-chondrus.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/crisp-chondrus.webp",
       "flags": {
         "better-rolltables": {
           "brt-result-formula": {
@@ -286,7 +286,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/culkas.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/culkas.webp",
       "weight": 17,
       "range": [
         89,
@@ -649,7 +649,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/locust-needle.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/locust-needle.webp",
       "weight": 17,
       "range": [
         206,
@@ -682,7 +682,7 @@
         }
       },
       "type": "document",
-      "img": "modules/brodericks-compendium/images/mountain-garlic.webp",
+      "img": "modules/brodericks-compendium-plants-fungi/images/mountain-garlic.webp",
       "weight": 10,
       "range": [
         223,
